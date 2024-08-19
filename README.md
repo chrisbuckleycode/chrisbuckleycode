@@ -6,5 +6,5 @@ I use [Terraform](https://github.com/search?q=language%3AHCL++user%3Achrisbuckle
 
 ## Browse my main repos:
 
-- [cloud-devops-scripts](https://github.com/chrisbuckleycode/cloud-devops-scripts)
-- [usefulscripts](https://github.com/chrisbuckleycode/usefulscripts)
+- [Cloud DevOps Scripts](https://github.com/chrisbuckleycode/cloud-devops-scripts) - Cloud/DevOps Scripts
+- [Useful Scripts](https://github.com/chrisbuckleycode/usefulscripts) - Personal Scripts
