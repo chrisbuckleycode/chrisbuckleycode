@@ -2,7 +2,7 @@
 
 My name is Chris. I'm a DevOps/Cloud/Infra/SRE Engineer who loves to code.
 
-I use **Terraform** (all clouds), **Bash**, **Python**, **Kubernetes** - and a little Ansible, Golang, PowerShell - whatever it takes to deliver!
+I use **Terraform** (all clouds), **Bash**, **Python**, **Kubernetes** - and a little Ansible, Golang, PowerShell.
 
 ## Browse my main repos:
 
