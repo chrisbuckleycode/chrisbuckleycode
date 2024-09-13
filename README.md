@@ -13,6 +13,6 @@ I use **Terraform** (all clouds), **Bash**, **Python**, **Kubernetes** - and a l
 
 
 Full Disclosure: I use and recommend AI after gaining experience in a language to:
-- Boost efficiency and speed up feature delivery
-- Focus on architecture over syntax
-- Correct AI errors effectively
+- Speed up feature delivery
+- Focus on function over syntax
+- Guide and correct AI
