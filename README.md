@@ -9,7 +9,7 @@ I use:
 - **Kubernetes**
 - and a little Ansible, Golang, PowerShell.
 
-## Browse my main repos:
+## Visit my main repos now for examples of the above:
 
 | [**Cloud DevOps Scripts**](https://github.com/chrisbuckleycode/cloud-devops-scripts)                  | [**Useful Scripts**](https://github.com/chrisbuckleycode/usefulscripts)                  |
 | ----------------------- | ----------------------- |
