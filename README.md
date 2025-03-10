@@ -11,13 +11,8 @@ I use:
 
 ## ⬇️ Visit my main repos now for examples of the above ⬇️
 
+⚠️ I am a heavy user of AI-assisted coding. AGI/ASI is barely 3 years away, there's no good reason not to use it anymore.
+
 | [**Cloud DevOps Scripts**](https://github.com/chrisbuckleycode/cloud-devops-scripts)                  | [**Useful Scripts**](https://github.com/chrisbuckleycode/usefulscripts)                  |
 | ----------------------- | ----------------------- |
 | [![Cloud DevOps Scripts](cloud.png)](https://github.com/chrisbuckleycode/cloud-devops-scripts) | [![Useful Scripts](user.png)](https://github.com/chrisbuckleycode/usefulscripts) |
-
-
-
-Full Disclosure: I use and recommend AI after gaining experience in a language to:
-- Speed up feature delivery
-- Focus on function over syntax
-- Guide and correct AI
