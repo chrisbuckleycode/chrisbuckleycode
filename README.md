@@ -11,7 +11,7 @@ I use:
 
 ## ⬇️ Visit my main repos now for examples of the above ⬇️
 
-⚠️ I am a heavy user of AI-assisted coding. AGI/ASI is barely 3 years away, there's no good reason not to use it anymore.
+⚠️ I am a heavy user of AI/LLMs. With AGI/ASI barely 3 years away, there's no good reason not to use it anymore. ⚠️
 
 | [**Cloud DevOps Scripts**](https://github.com/chrisbuckleycode/cloud-devops-scripts)                  | [**Useful Scripts**](https://github.com/chrisbuckleycode/usefulscripts)                  |
 | ----------------------- | ----------------------- |
